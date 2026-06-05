@@ -6,7 +6,7 @@ High-efficiency single-cell Li-Ion charger and power bank module featuring USB-C
 
 -------------------------------------------------------------------------------------------------------------
 
-OVERVIEW
+## OVERVIEW
 
 This project implements a compact battery management and power bank solution for a single 18650 Li-Ion cell.
 
