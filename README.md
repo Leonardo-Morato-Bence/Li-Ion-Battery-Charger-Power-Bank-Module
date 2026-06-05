@@ -1,6 +1,9 @@
 # Li-Ion-Battery-Charger-Power-Bank-Module
 High-efficiency single-cell Li-Ion charger and power bank module featuring USB-C charging, battery protection and regulated 5V output.
 
+<img width="1598" height="1375" alt="Image" src="https://github.com/user-attachments/assets/c0277084-84f8-40d9-bede-7339212d535a" />
+
+
 -------------------------------------------------------------------------------------------------------------
 
 OVERVIEW
