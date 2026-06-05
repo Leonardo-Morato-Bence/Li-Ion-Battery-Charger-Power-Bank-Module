@@ -52,11 +52,12 @@ PCB
 
 TOP LAYER
 
-
+<img width="1012" height="614" alt="Image" src="https://github.com/user-attachments/assets/2b59c3e5-fe50-4746-bc18-b3360d5a20d8" />
 
 BOTTOM LAYER
 
-
+<img width="994" height="572" alt="Image" src="https://github.com/user-attachments/assets/aab7b30d-5cd1-47a9-9adb-5e9547277a28" />
 
 3D VIEW
 
+<img width="1165" height="733" alt="Image" src="https://github.com/user-attachments/assets/f24fae36-a208-4cb8-8351-f1d7de5b4597" />
