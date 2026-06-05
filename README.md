@@ -40,7 +40,7 @@ The module is intended for portable electronics, embedded systems and prototypin
 - ESD protection
 - Resettable battery fuse
 
-  -------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------
 
 ## BLOCK DIAGRAM
 
